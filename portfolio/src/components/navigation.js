@@ -26,7 +26,7 @@ class Navigation extends Component{
                 <a class="nav-link" href="#projects">Projects</a>
               </li>
               <li class="nav-item">
-                <a class="resumes" href="#resume" target="blank"> Resume</a>
+                <a class="resume nav-link" href="https://drive.google.com/file/d/12uQ3UCFcLxy0zUFI6JUrrJfsdfWwRB0y/view?usp=sharing" target="blank"> Resume</a>
               </li>
             </ul>
           </div>

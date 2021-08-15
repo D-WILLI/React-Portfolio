@@ -9,7 +9,7 @@ class Footer extends Component{
               href = "mailto: williams.diamond@icloud.com">Send Email</a> 
          
             
-              <a class="nav-link" href="assets/Diamond Resume .png" target="blank">Resume</a>
+              <a class="nav-link" href="https://drive.google.com/file/d/12uQ3UCFcLxy0zUFI6JUrrJfsdfWwRB0y/view?usp=sharing" target="blank">Resume</a>
         
                 <a href="#home"><h5>Diamond Williams</h5></a>
           

@@ -5,6 +5,7 @@ import Skills from './components/skills'
 import Portfolio from './components/portfolio-work'
 import Footer from './components/footer'
 
+
 function App() {
   return (
     <div class="container">
@@ -19,7 +20,7 @@ function App() {
             <Portfolio />
             <hr></hr>
             <Footer />
-            <img class="resume" src="./public/DiamondResume.png"></img>
+            
             
     </div>
   );
