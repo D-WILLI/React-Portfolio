@@ -1,31 +1,116 @@
-.App {
+body{
+  background-color: rgb(234, 207, 208);
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+img {
+ margin-left: 35%;
+ margin-right: 35%;
+
 }
 
+h1{
+  color: white;
+  text-align: center;
+  font-size: 120px;
+  font-family: 'Sacramento', cursive; 
+  font-weight: bold;
+  text-shadow: rosybrown 12px 12px ;
+  background-color: rgb(234, 207, 208);
+  margin-left: 25%;
+  margin-right: 25%;
+  margin: auto;
+  margin-top: 4% ;
+
+}
+.portfolio{
+  text-align: center;
+}
+
+h2{
+  color: white;
+  text-align: center;
+  font-size: 90px;
+  font-family: 'Sacramento', cursive; 
+  font-weight: bold;
+  text-shadow: rosybrown 12px 12px ;
+  background-color: rgb(234, 207, 208);
+  margin-left: 25%;
+  margin-right: 25%;
+  margin: auto;
+  margin-top: 11% ;
+
+}
+
+h4{
+  text-align: center;
+  margin-bottom: 7%;
+  font-family: 'Amatic SC', cursive;
+  font-size: 2.5rem;
+}
+
+nav{
+  background-color: white;
+  font-size: 1rem;
+  box-shadow:lightgray 5px 5px;
+} 
+
+.navbar-nav{
+  /* text-align: center; */
+  margin-left: 25%;
+  margin-right: 25%;
+  margin: auto;
+}
+
+nav li{
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-size: 25px; 
+} 
+
+footer{
+  background-color: white;
+  font-size: 1rem;
+  box-shadow:lightgray 5px 5px;
+  margin-left: 25%;
+  margin-right: 25%;
+  margin: auto;
+  text-align: center;
+  font-family: 'Amatic SC', cursive;
+  font-size: 25px; 
+} 
+
+.portfolio{
+margin-top: 5%;
+margin-bottom: 20%;
+}
+
+a:hover{
+  color:lightgray;
+}
+
+footer a{
+  text-decoration: none;
+  color:black;
+} 
+
+footer .container-fluid{
+
+  margin-bottom: -1%;
+  padding: 0%;
+  margin-left: 20%;
+  margin-right: 10%;
+  text-align: center;
+  
+}
+
+.projects{
+  margin-bottom: 20%;
+}
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
 }
 
 @keyframes App-logo-spin {
